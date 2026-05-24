@@ -1,0 +1,6 @@
+{
+  "name": "Euro Football Analyst",
+  "description": "Real-time European football tracker with AI match probability analysis (English & Hungarian support).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
